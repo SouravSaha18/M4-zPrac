@@ -80,3 +80,23 @@ h1 {
     width: 480px;
     margin-top: 20px;
 }
+
+.last {
+
+    width: 80%;
+    text-align: center;
+}
+
+.pp {
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 4000px gray;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
