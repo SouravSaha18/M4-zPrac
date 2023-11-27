@@ -1,0 +1,82 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Sometype Mono', monospace;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.oren {
+    color: orange;
+}
+
+.flexi {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.top {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.me {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    border-radius: 10px;
+    margin: 20px;
+    background-position: 2px;
+    margin-top: 100px;
+    background-repeat: no-repeat;
+}
+
+.half {
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 30px;
+}
+
+.half p {
+    padding-bottom: 20px;
+    text-align: justify;
+    margin: 10px;
+}
+
+.half img {
+    width: 80%;
+    margin-top: 14px;
+    border-radius: 10px;
+    margin-bottom: 14px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 50px;
+}
+
+.hh {
+    text-align: center;
+    margin-top: 75px;
+    color: gray;
+}
+
+.expi {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+.expi img {
+    width: 480px;
+    margin-top: 20px;
+}
